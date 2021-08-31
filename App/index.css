@@ -1,0 +1,51 @@
+div.app {
+  text-align: center;
+  border: 1px solid darkgrey;
+  background-color: rgb(243, 238, 232);
+  width: 400px;
+  margin-left: 350px;
+}
+
+.postInput {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.post {
+  background-color: rgb(235, 234, 232);
+  margin-bottom: 15px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.postSection {
+  padding-top: 15px;
+  padding-bottom: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: rgb(248, 246, 244);
+}
+
+button.button {
+  font-size: 10px;
+  border: 5px;
+  border-radius: 25px;
+  margin-left: 5px;
+}
+
+#commentButton {
+  font-size: 13px;
+  border: 5px;
+  border-radius: 25px;
+  margin-left: 5px;
+  border: solid rgb(202, 196, 196);
+  width: 80px;
+}
+
+.commentsSection {
+  margin-bottom: 10px;
+}
+
+#date {
+  font-size: 9px;
+}
